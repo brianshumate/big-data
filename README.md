@@ -7,9 +7,10 @@ Chrome extension that replaces occurrences of 'big data' with 'chronic flatulenc
 
 This code is derived from the work of Steven Frank's  [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) extension.
 
-## Screenshot Gallery
+## Screenshots
 
-Coming soon...
+You can see some screenshots of the extension in action
+[on my website](http://brianshumate.com/blog/2013/03/14/big-data-in-the-cloud/)
 
 ##Installation
 
