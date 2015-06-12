@@ -14,3 +14,8 @@ plays very well with it. :)
 1. In Chrome, choose Window > Extensions.
 2. Drag ChronicFlatulence.crx into the page that appears.
 3. Laugh and look around nervously
+
+## Example
+
+![](https://raw.githubusercontent.com/brianshumate/big-data/master/share/screen-shot.png
+)
