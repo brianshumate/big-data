@@ -12,8 +12,8 @@ plays very well with it. :)
 
 ## Installation
 
-1. In Chrome, choose Window > Extensions
-2. Drag ChronicFlatulence.crx into the page that appears
+1. In Chrome, choose **Window** > **Extensions**
+2. Drag `ChronicFlatulence.crx` into the page that appears
 3. Visit a website containing the term *big data*
 4. Look around and laugh nervously
 
