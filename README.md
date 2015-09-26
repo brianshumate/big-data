@@ -17,3 +17,8 @@ plays very well with it. :)
 3. Visit a website containing the term *big data*
 4. Look around and laugh nervously
 
+## Example
+
+![](https://raw.githubusercontent.com/brianshumate/big-data/master/share/screen-shot.png)
+
+
