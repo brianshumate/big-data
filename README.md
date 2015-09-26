@@ -12,21 +12,19 @@ plays very well with it. :smile:
 
 ## Chrome Installation
 
-1. In Chrome, choose **Window** > **Extensions**
-2. Drag `BigData.crx` into the page that appears
-3. Visit a website containing the term *big data*
-4. Look around and laugh nervously
+1. Clone this repository
+2. In Chrome, choose **Window** > **Extensions**
+3. Drag `BigData.crx` onto the page that appears
+4. Visit a website containing the term *big data*
+5. Look around and laugh nervously
 
 ## Firefox Installation
 
-Download [BigData.xpi](https://github.com/brianshumate/big-data/blob/master/BigData.xpi?raw=true)
-
-## Firefox Build
-
 1. Clone this repository
-2. Open FireFox
-2. Choose **Tools** > **Add-ons* and select **Extensions**
+2. In Firefox, choose **Tools** > **Add-ons** and select **Extensions**
 3. Drag `BigData.xpi` onto the page that appears
+4. Visit a website containing the term *big data*
+5. Look around and laugh nervously
 
 ## LOL Example
 
