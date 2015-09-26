@@ -26,6 +26,11 @@ plays very well with it. :smile:
 4. Visit a website containing the term *big data*
 5. Look around and laugh nervously
 
+NOTE: The Firefox version is not signed, and you'll get a warning about using
+it, but feel free to inspect the content of the `.xpi` file (it is just a
+zip file) to see that the source code is harmless or light the whole thing on
+fire and push it out the window; it's [your perogative](https://www.youtube.com/watch?v=5cDLZqe735k).
+
 ## LOL Example
 
 ![](https://raw.githubusercontent.com/brianshumate/big-data/master/share/screen-shot.png)
