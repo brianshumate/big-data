@@ -29,7 +29,7 @@ plays very well with it. :smile:
 NOTE: The Firefox version is not signed, and you'll get a warning about using
 it, but feel free to inspect the content of the `.xpi` file (it is just a
 zip file) to see that the source code is harmless or light the whole thing on
-fire and push it out the window; it's [your perogative](https://www.youtube.com/watch?v=5cDLZqe735k).
+fire and push it out the window; it's [your prerogative](https://www.youtube.com/watch?v=5cDLZqe735k).
 
 ## LOL Example
 
