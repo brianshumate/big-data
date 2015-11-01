@@ -1,10 +1,10 @@
 # Big Data
 
 This is a Chrome or Firefox browser extension that replaces all occurrences 
-of the phrase *big data* on a page with the phrase *chronic flatulence* for
+of the phrase *big data* on a page with the phrase *chronic farting* for
 great juvenile humor justice!
 
-- [Direct download of Chrome crx file](https://github.com/brianshumate/chronic-flatulence/blob/master/ChronicFlatulence.crx?raw=true)
+- [Direct download of Chrome crx file](https://github.com/brianshumate/chronic-flatulence/blob/master/BigData.crx?raw=true)
 - [Direct download of Firefox xpi file](https://github.com/brianshumate/big-data/blob/master/BigData.xpi?raw=true)
 
 This code is derived from the work of Steven Frank's excellent
