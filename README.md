@@ -1,5 +1,7 @@
 # Big Data
 
+![](https://raw.githubusercontent.com/brianshumate/big-data/master/share/big-data.png)
+
 This is a Chrome or Firefox browser extension that replaces all occurrences 
 of the phrase *big data* on a page with the phrase *chronic farting* for
 great juvenile humor justice!
