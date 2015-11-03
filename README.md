@@ -9,10 +9,6 @@ great juvenile humor justice!
 - [Direct download of Chrome crx file](https://github.com/brianshumate/chronic-flatulence/blob/master/BigData.crx?raw=true)
 - [Direct download of Firefox xpi file](https://github.com/brianshumate/big-data/blob/master/BigData.xpi?raw=true)
 
-This code is derived from the work of Steven Frank's excellent
-[cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) extension and
-plays very well with it. :smile:
-
 ## Chrome Installation
 
 1. Clone this repository
@@ -37,3 +33,9 @@ fire and push it out the window; it's [your prerogative](https://www.youtube.com
 ## LOL Example
 
 ![](https://raw.githubusercontent.com/brianshumate/big-data/master/share/screen-shot.png)
+
+## Thanks
+
+This code is inspired by Steven Frank's excellent
+[cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) extension and
+plays very well with it. :smile:
