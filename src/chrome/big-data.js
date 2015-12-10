@@ -23,10 +23,10 @@
 
 	function handleText(textNode) {
 	    var t = textNode.nodeValue
-	    t = t.replace(/\bBig Data\b/g, "Chronic Flatulence")
-	    t = t.replace(/\bBig data\b/g, "Chronic flatulence")
-	    t = t.replace(/\bbig Data\b/g, "chronic Flatulence")
-	    t = t.replace(/\bbig data\b/g, "chronic flatulence")
+	    t = t.replace(/\bBig Data\b/g, "Chronic Farting")
+	    t = t.replace(/\bBig data\b/g, "Chronic farting")
+	    t = t.replace(/\bbig Data\b/g, "chronic Farting")
+	    t = t.replace(/\bbig data\b/g, "chronic farting")
 	    textNode.nodeValue = t
 	}
 }())
